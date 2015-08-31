@@ -1,0 +1,6 @@
+{
+  "dependencies":{
+    "rss-watcher": "*",
+    "parse-rss": "*"
+  }
+}
